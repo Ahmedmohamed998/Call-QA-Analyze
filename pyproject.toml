@@ -1,0 +1,10 @@
+[project]
+name = "call-qa-analyzer"
+version = "1.0.0"
+description = "AI-powered call quality analysis system for healthcare clinic operations"
+requires-python = ">=3.10"
+readme = "README.md"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

@@ -1,0 +1,8 @@
+{
+  "call_id": "CALL-2024-00142",
+  "agent_name": "Maria Santos",
+  "call_date": "2024-11-15",
+  "call_duration_seconds": 245,
+  "department": "Scheduling",
+  "transcript": "Agent: Thank you for calling Pain Management and Neurology Clinic. This is Maria, how can I help you today?\nCaller: Hi Maria, I'd like to schedule a follow-up appointment with Dr. Patterson.\nAgent: Of course! I'd be happy to help you with that. Can I please have your full name and date of birth for verification?\nCaller: Sure, it's Jennifer Walsh, date of birth March 12, 1985.\nAgent: Thank you, Jennifer. I have your file pulled up. I can see you were last seen by Dr. Patterson on October 3rd. Let me check his availability for you. Would you prefer a morning or afternoon appointment?\nCaller: Afternoon would work best for me, if possible.\nAgent: Let me look at what we have. I have an opening on Tuesday, November 26th at 2:30 PM at our Riverside location. Would that work for you?\nCaller: That sounds perfect.\nAgent: Wonderful! I've got you scheduled for Tuesday, November 26th at 2:30 PM with Dr. Patterson at our Riverside clinic. You'll receive a confirmation text and email shortly. Is there anything else I can help you with?\nCaller: No, that's everything. Thank you so much, Maria!\nAgent: You're welcome, Jennifer! We'll see you on the 26th. Have a great day!\nCaller: You too, bye!\nAgent: Goodbye!"
+}
