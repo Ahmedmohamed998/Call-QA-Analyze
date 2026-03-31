@@ -340,6 +340,6 @@ Every LLM call is logged with:
 
 Example log output:
 ```
-2024-11-15 14:30:22 | INFO     | app.providers.azure_openai | Azure OpenAI call completed | latency=2341ms | prompt_tokens=1247 | completion_tokens=892 | total_tokens=2139
-2024-11-15 14:30:22 | INFO     | app.services.analyzer      | Analysis complete | call_id=CALL-001 | assessment=pass | flags=1 | escalation=False
+2026-03-30 14:30:22 | INFO     | app.providers.azure_openai | Azure OpenAI call completed | latency=2341ms | prompt_tokens=1247 | completion_tokens=892 | total_tokens=2139
+2026-03-30 14:30:40 | INFO     | app.services.analyzer      | Analysis complete | call_id=CALL-001 | assessment=pass | flags=1 | escalation=False
 ```
